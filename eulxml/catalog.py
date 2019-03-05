@@ -58,7 +58,6 @@ XSD_SCHEMAS = [
     'http://www.loc.gov/standards/xlink/xlink.xsd',
     'http://www.loc.gov/standards/premis/premis.xsd',
     'http://www.loc.gov/standards/premis/v2/premis-v2-1.xsd',
-    'http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd',
     'http://www.loc.gov/ead/ead.xsd'
 ]
 # , 'http://www.archives.ncdcr.gov/mail-account.xsd'

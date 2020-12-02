@@ -139,6 +139,7 @@ setup(
         'ply>=3.8',
         'lxml>=3.4',
         'six>=1.10',
+        'cssselect>=1.1.0',
     ],
     extras_require={
         'django': ['Django<1.9'],
